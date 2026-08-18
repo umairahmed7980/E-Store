@@ -1,0 +1,9 @@
+{
+  "name": "e-store-complete",
+  "version": "2.0.0",
+  "private": true,
+  "description": "E Store Pakistan - Grocery & Dry Fruits PWA e-commerce app",
+  "main": "server.js",
+  "scripts": {"start":"node server.js","dev":"node server.js"},
+  "dependencies": {"cors":"^2.8.5","express":"^4.21.2"}
+}
